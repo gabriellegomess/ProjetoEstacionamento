@@ -8,6 +8,16 @@ public class Carro : Veiculo
         get => _nmroPortas;
         set => _nmroPortas = value;
     }
+
+    public Carro()
+    {
+        _nmroPortas = 0;
+    }
+
+    public Carro( string placa, string descricao, Cor corExterna, int nmroPortas) : base(placa, descricao, corExterna)
+    {
+        _nmroPortas = nmroPortas;
+    }
   
     public override void Mostrar()
     {

@@ -1,3 +1,5 @@
+using System.Security.Cryptography;
+
 public class Veiculo
 {
   //0,1,2,3 - vetor
@@ -23,6 +25,21 @@ public class Veiculo
         get => _corExterna;
         set => _corExterna = value; 
     }
+
+    public Veiculo(string placa, string descricao, Cor corExterna)
+    {
+        _placa = placa;
+        _descricao = descricao;
+        _corExterna = corExterna;
+    }
+
+    public Veiculo()
+    {
+        _placa = string.Empty;
+        _descricao = string.Empty;
+        _corExterna = Cor.Undefined;
+    }
+    
 
     public virtual void Mostrar()
     {
