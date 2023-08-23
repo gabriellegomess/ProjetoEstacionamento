@@ -1,0 +1,5 @@
+C:\Users\Aluno\Documents\GitHub\ProjetoEstacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\ProjetoEstacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\ProjetoEstacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\ProjetoEstacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\ProjetoEstacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.csproj.CoreCompileInputs.cache
